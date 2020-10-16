@@ -1,2 +1,2 @@
 # Abp.WorkflowCore
-ABP+WorkflowCore实现的工作流模块
+ABP+WorkflowCore+jsplumb实现的工作流模块
