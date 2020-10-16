@@ -1,0 +1,14 @@
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Abp.WorkflowCore.Persistence.EntityFrameworkCore.deps.json
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Abp.WorkflowCore.Persistence.EntityFrameworkCore.dll
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Abp.WorkflowCore.Persistence.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Abp.WorkflowCore.Persistence.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Abp.WorkflowCore.Persistence.EntityFrameworkCore.AssemblyInfo.cs
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Abp.Workflow.dll
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Abp.WorkflowCore.dll
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Abp.WorkflowCore.Persistence.EntityFrameworkCore.pdb
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Abp.WorkflowCore.pdb
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Abp.Workflow.pdb
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Abp.WorkflowCore.Persistence.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Abp.WorkflowCore.Persistence.EntityFrameworkCore.csproj.CopyComplete
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Abp.WorkflowCore.Persistence.EntityFrameworkCore.dll
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore.Persistence.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Abp.WorkflowCore.Persistence.EntityFrameworkCore.pdb

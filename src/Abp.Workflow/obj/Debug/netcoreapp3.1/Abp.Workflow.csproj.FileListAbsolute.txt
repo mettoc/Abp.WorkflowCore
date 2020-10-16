@@ -1,0 +1,8 @@
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.Workflow\bin\Debug\netcoreapp3.1\Abp.Workflow.deps.json
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.Workflow\bin\Debug\netcoreapp3.1\Abp.Workflow.dll
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.Workflow\bin\Debug\netcoreapp3.1\Abp.Workflow.pdb
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.Workflow\obj\Debug\netcoreapp3.1\Abp.Workflow.AssemblyInfoInputs.cache
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.Workflow\obj\Debug\netcoreapp3.1\Abp.Workflow.AssemblyInfo.cs
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.Workflow\obj\Debug\netcoreapp3.1\Abp.Workflow.csproj.CoreCompileInputs.cache
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.Workflow\obj\Debug\netcoreapp3.1\Abp.Workflow.dll
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.Workflow\obj\Debug\netcoreapp3.1\Abp.Workflow.pdb

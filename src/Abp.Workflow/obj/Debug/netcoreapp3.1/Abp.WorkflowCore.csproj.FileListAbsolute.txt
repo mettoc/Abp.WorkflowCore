@@ -1,0 +1,5 @@
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore\bin\Debug\netcoreapp3.1\Abp.WorkflowCore.deps.json
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore\bin\Debug\netcoreapp3.1\Abp.WorkflowCore.dll
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore\obj\Debug\netcoreapp3.1\Abp.WorkflowCore.csprojAssemblyReference.cache
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore\obj\Debug\netcoreapp3.1\Abp.WorkflowCore.AssemblyInfoInputs.cache
+D:\我的文件\我的项目\Abp.WorkflowCore\src\Abp.WorkflowCore\obj\Debug\netcoreapp3.1\Abp.WorkflowCore.AssemblyInfo.cs

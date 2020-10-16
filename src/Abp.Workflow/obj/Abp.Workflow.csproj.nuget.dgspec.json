@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\我的文件\\我的项目\\Abp.WorkflowCore\\src\\Abp.Workflow\\Abp.Workflow.csproj": {}
+  },
+  "projects": {
+    "D:\\我的文件\\我的项目\\Abp.WorkflowCore\\src\\Abp.Workflow\\Abp.Workflow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\我的文件\\我的项目\\Abp.WorkflowCore\\src\\Abp.Workflow\\Abp.Workflow.csproj",
+        "projectName": "Abp.Workflow",
+        "projectPath": "D:\\我的文件\\我的项目\\Abp.WorkflowCore\\src\\Abp.Workflow\\Abp.Workflow.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\我的文件\\我的项目\\Abp.WorkflowCore\\src\\Abp.Workflow\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://211.149.234.57:8624/nuget/sdtz/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Abp": {
+              "target": "Package",
+              "version": "[5.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
